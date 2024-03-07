@@ -1,3 +1,7 @@
+'''
+Name: Maura Wahl
+Time: Thursdays at 2pm
+'''
 def process_input(input_string):
       # Split into separate strings
 
